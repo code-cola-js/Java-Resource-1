@@ -1,4 +1,4 @@
-import com.itheima.ui.GameJFrame2;
+import com.itheima.ui.GameJFrame;
 import com.itheima.ui.LoginJFrame;
 import com.itheima.ui.RegisterJFrame;
 
@@ -8,6 +8,6 @@ public class App {
         //如果我们想要开启一个界面，就创建谁的对象就可以了
         //new LoginJFrame();
         //new RegisterJFrame();
-        new GameJFrame2();
+        new GameJFrame();
     }
 }

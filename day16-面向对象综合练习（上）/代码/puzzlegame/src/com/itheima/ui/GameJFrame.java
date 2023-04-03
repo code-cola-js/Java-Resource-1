@@ -1,7 +1,7 @@
 package com.itheima.ui;
 
+
 import javax.swing.*;
-import java.awt.event.KeyListener;
 import java.util.Random;
 
 public class GameJFrame extends JFrame {
